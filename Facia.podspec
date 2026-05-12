@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
 
-  spec.name         = "Facia-QIC"
+  spec.name         = "Facia-QID"
   spec.version      = "1.0.0"
-  spec.summary      = "Facia-QIC iOS-SDK"
+  spec.summary      = "Facia-QID iOS-SDK"
   
   spec.description  = <<-DESC
   Facia Core SDK
