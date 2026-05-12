@@ -526,7 +526,7 @@
 		</data>
 		<key>Modules/Facia.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		5cqsHRIUwxYWbTNIL38iZF/tPyQ=
+		QUlJkmVyVPr/uxhC6tYX6upRUA0=
 		</data>
 		<key>Modules/Facia.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -542,7 +542,7 @@
 		</data>
 		<key>Modules/Facia.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		/Fm2yZX44VnkKszbJzm2sRjdqIE=
+		Jsa8uGNh44Q+ka1H++Y3AA8DDZM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1474,7 +1474,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XZ3YezdzvncgqxA9HfNYg/d+YXknWtGnSvaGOI4TE88=
+			0A7N9zbkjgA3fdBn6TdQ0AEcjNaqnqaGqGcm8GtivUM=
 			</data>
 		</dict>
 		<key>Modules/Facia.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1502,7 +1502,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H1zZl9DOWgMRgJydBOrZehreiXoaq+5sIw3FC1/Q894=
+			tHdweMs20E71ZX/+uc2188z/r8AX38ZV/Q2Wrz+tYcQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

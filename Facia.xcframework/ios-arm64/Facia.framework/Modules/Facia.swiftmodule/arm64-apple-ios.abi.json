@@ -2553,7 +2553,7 @@
       "kind": "StringLiteral",
       "offset": 86,
       "length": 7,
-      "value": "\"1.0.0\""
+      "value": "\"1.0.1\""
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/Utilities\/AppConstant.swift",
@@ -7017,238 +7017,238 @@
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21403,
+      "offset": 21276,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "FloatLiteral",
-      "offset": 21407,
+      "offset": 21280,
       "length": 5,
       "value": "400.0"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "FloatLiteral",
-      "offset": 21480,
+      "offset": 21353,
       "length": 5,
       "value": "240.0"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "FloatLiteral",
-      "offset": 21497,
+      "offset": 21370,
       "length": 5,
       "value": "400.0"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21597,
+      "offset": 21470,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "FloatLiteral",
-      "offset": 21629,
+      "offset": 21502,
       "length": 4,
       "value": "60.0"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21635,
+      "offset": 21508,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21831,
+      "offset": 21704,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "FloatLiteral",
-      "offset": 21868,
+      "offset": 21741,
       "length": 5,
       "value": "240.0"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21933,
+      "offset": 21806,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "FloatLiteral",
-      "offset": 21964,
+      "offset": 21837,
       "length": 4,
       "value": "60.0"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21970,
+      "offset": 21843,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22337,
+      "offset": 22210,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "FloatLiteral",
-      "offset": 22341,
+      "offset": 22214,
       "length": 5,
       "value": "400.0"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "FloatLiteral",
-      "offset": 22414,
+      "offset": 22287,
       "length": 4,
       "value": "24.0"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22550,
+      "offset": 22423,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22619,
+      "offset": 22492,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22629,
+      "offset": 22502,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22707,
+      "offset": 22580,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22717,
+      "offset": 22590,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22736,
+      "offset": 22609,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22963,
+      "offset": 22836,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23000,
+      "offset": 22873,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23134,
+      "offset": 23007,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23203,
+      "offset": 23076,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23213,
+      "offset": 23086,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23291,
+      "offset": 23164,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23301,
+      "offset": 23174,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23320,
+      "offset": 23193,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "FloatLiteral",
-      "offset": 25263,
+      "offset": 25136,
       "length": 4,
       "value": "70.0"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "FloatLiteral",
-      "offset": 25297,
+      "offset": 25170,
       "length": 4,
       "value": "70.0"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25350,
+      "offset": 25223,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25360,
+      "offset": 25233,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/emaantahir\/Documents\/PFRepos\/clientQID\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
       "kind": "FloatLiteral",
-      "offset": 25395,
+      "offset": 25268,
       "length": 4,
       "value": "36.0"
     },
